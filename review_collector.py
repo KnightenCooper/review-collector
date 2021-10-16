@@ -141,7 +141,7 @@ class Menu:
         # loop through the menu forever
         while True:
             # Tell the user the options for commands and ask for input. If the user input matches a command call those functions
-            print("Enter command ( \'i\' insert review, \'m\' modify review, \'d\' delete review, \'r\' retrieve all reviews, \'s\' statistics , and \'end\' ends program")
+            print("Enter command ( \'i\' insert review, \'m\' modify review, \'d\' delete review, \'r\' retrieve all reviews, \'s\' statistics, and \'end\' ends program")
             val = input("Enter your value: ") # get user input
             if val == 'i': # if the user inputs 'i' then insert a new review
                 database = Database # call database class
