@@ -30,7 +30,6 @@ I used the Python programming language with sqlite3 and sys imported. I used sql
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [SQLite Tutorial](https://www.sqlitetutorial.net)
 * [Python Documentation](https://docs.python.org/3.8/library/sqlite3.html)
 * [Tutorials Point](https://www.tutorialspoint.com/sqlite/sqlite_python.htm)
