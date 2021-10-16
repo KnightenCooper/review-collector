@@ -1,6 +1,6 @@
 # Overview
 
-My goal with this software was to gain an understanding of how to use sqlite3 to create a database that is used by a Python review application. I am currently a 
+My goal with this program was to gain an understanding of how to use sqlite3 to create a database that is used by a Python review application. I am currently a 
 software engineering student and wanted to deepen my knowledge of Python and databases.
 
 This software is linked to a single database called data. The database has a table that stores a review's primary key, title, description, and a integer rating. 
